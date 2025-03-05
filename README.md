@@ -16,6 +16,9 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
+
+Expo router и zustand были выбраны по причине того, что раннее не было опыта работы с ними.
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
